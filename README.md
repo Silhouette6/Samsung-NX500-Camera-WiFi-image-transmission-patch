@@ -14,11 +14,11 @@
 
 
 
-警告：该脚本将会更改相机原有的文件系统！！！
+**警告：该脚本将会更改相机原有的文件系统！！！**
 
-警告：该脚本将会更改相机原有的文件系统！！！
+**警告：该脚本将会更改相机原有的文件系统！！！**
 
-警告：该脚本将会更改相机原有的文件系统！！！
+**警告：该脚本将会更改相机原有的文件系统！！！**
 
 如有恢复需求，请查阅[(Running_scripts_without_factory_mode_BT.md)](https://github.com/ottokiksmaler/nx500_nx1_modding/blob/master/Running_scripts_without_factory_mode_BT.md)
 
